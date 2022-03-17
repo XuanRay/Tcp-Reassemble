@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "util.h": "c",
+        "hash.h": "c",
+        "types.h": "c",
+        "cstdint": "c",
+        "dirent.h": "c",
+        "mydirent.h": "c",
+        "ip.h": "c",
+        "inet.h": "c",
+        "network.h": "c",
+        "unistd.h": "c"
+    }
+}
